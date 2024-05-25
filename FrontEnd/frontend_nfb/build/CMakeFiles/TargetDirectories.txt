@@ -1,0 +1,3 @@
+/home/lun/FrontEnd/frontend_nfb/build/CMakeFiles/LexerNFB.dir
+/home/lun/FrontEnd/frontend_nfb/build/CMakeFiles/edit_cache.dir
+/home/lun/FrontEnd/frontend_nfb/build/CMakeFiles/rebuild_cache.dir
